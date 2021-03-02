@@ -1,4 +1,4 @@
-# C-Pro1
+# C/C++ AlgoProgramming
 Colección de ejercicios C/C++ de Programación I.
 Cabe destacar que:
 1) Estos ejercicios puede que estén mal optimizados.
